@@ -1,0 +1,13 @@
+{
+  "welcome": "Welcome to React with i18n",
+  "description": "This is a React application with TypeScript, Redux Toolkit, Redux Saga, Styled Components, and i18n support.",
+  "language": "Language",
+  "users": "Users",
+  "loading": "Loading...",
+  "error": "An error occurred",
+  "fetchUsers": "Fetch Users",
+  "noUsers": "No users found",
+  "name": "Name",
+  "email": "Email",
+  "actions": "Actions"
+}
